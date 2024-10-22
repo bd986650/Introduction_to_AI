@@ -5,3 +5,10 @@
 ---
 # [1 homework](https://github.com/bd986650/Introduction_to_AI/blob/main/hw1.pl)
 ---
+---
+# [2 homework](https://github.com/bd986650/Introduction_to_AI/blob/main/hw2.pl)
+---
+---
+# [3 homework](https://github.com/bd986650/Introduction_to_AI/blob/main/hw3.pl)
+---
+
